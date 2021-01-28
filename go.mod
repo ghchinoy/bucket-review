@@ -5,6 +5,7 @@ go 1.15
 require (
 	cloud.google.com/go v0.75.0 // indirect
 	cloud.google.com/go/storage v1.12.0
+	github.com/google/addlicense v0.0.0-20200906110928-a0294312aa76 // indirect
 	golang.org/x/mod v0.4.1 // indirect
 	golang.org/x/net v0.0.0-20210119194325-5f4716e94777 // indirect
 	golang.org/x/oauth2 v0.0.0-20210126194326-f9ce19ea3013 // indirect
